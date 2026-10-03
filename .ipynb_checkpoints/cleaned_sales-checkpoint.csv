@@ -1,0 +1,9 @@
+OrderID,CustomerID,ProductID,Quantity,OrderDate,Product,Category,Price,Total_Sales
+1001,C01,P01,2,2026-01-05,Laptop,Electronics,60000,120000
+1002,C02,P02,1,2026-01-08,Mobile,Electronics,25000,25000
+1003,C01,P03,3,2026-01-12,Mouse,Accessories,800,2400
+1004,C03,P01,1,2026-02-02,Laptop,Electronics,60000,60000
+1005,C04,P04,2,2026-02-10,Keyboard,Accessories,1500,3000
+1006,C02,P03,2,2026-02-15,Mouse,Accessories,800,1600
+1007,C05,P02,1,2026-03-03,Mobile,Electronics,25000,25000
+1008,C03,P04,4,2026-03-10,Keyboard,Accessories,1500,6000
